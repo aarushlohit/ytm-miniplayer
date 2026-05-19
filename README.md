@@ -94,17 +94,6 @@ npm install
 npm run build
 ```
 
-### Common Issues
-
-#### `bash build.sh` not working
-This project uses bash scripts which may not work correctly in Command Prompt or PowerShell. Use Git Bash instead.
-
-#### `zip: command not found`
-Some Windows environments may not include the `zip` utility by default.
-
-#### Missing `manifest.chrome.json`
-The build script references `manifest.chrome.json` during the Chrome and Edge build process.
-
 ### Loading the Extension
 After building:
 - Open `chrome://extensions`
