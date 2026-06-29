@@ -13,7 +13,7 @@ A lightweight, distraction-free mini-player extension for YouTube Music, availab
 
 <a href="https://microsoftedge.microsoft.com/addons/detail/ytm-mini-mode/cccmmkfhbjgchhgfacbllhkpgblfaodj"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get YTM Mini Mode for Microsoft Edge" height="40"></a>
 
-<a href="https://chromewebstore.google.com/detail/ytm-mini-mode/lpfejlnnjobhdpbhdlmhmmhhmphhbdda?authuser=2&hl=en"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get YTM Mini Mode for Chrome" height="40"></a>
+<a href="https://chromewebstore.google.com/detail/ytm-mini-mode/lpfejlnnjobhdpbhdlmhmmhhmphhbdda"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get YTM Mini Mode for Chrome" height="40"></a>
 
 ## 📖 Project Purpose
 
